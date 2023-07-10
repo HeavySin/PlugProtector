@@ -8,7 +8,7 @@ PlugProtector is a security project that safeguards a system's USB ports from un
 
 
 The PlugProtector is a security project implemented in **C** and **C++** languages.
-It provides robust protection for a system's USB ports against untrusted USB devices. It allows users to create a **Trusted Device List**, and any USB devices that are not part of the list, immediately gets ejected upon connection.
+It provides robust protection for a system's USB ports against untrusted USB devices. It allows users to create a **✅Trusted Device List**, and any USB devices that are not part of the list, immediately gets ejected upon connection.
 
 In addition to the protective ejection mechanism, the PlugProtector also features a **Destructive Mode**. When activated, this mode intentionally corrupts any connected USB drive irreversibly/reversibly, making it unusable. The destructive is optional, you can turn it off if you want.
 
