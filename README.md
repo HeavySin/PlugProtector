@@ -25,7 +25,7 @@ This project ensures the security and integrity of the system by allowing users 
      - `Reversible:` Ejects and removes the name of the device, so it wont show up the next time you connect the usb to a system.
 
 
-## Libraries used in this project
+## Third-Party libraries used in this project
 - [RapidJson](https://github.com/Tencent/rapidjson) + [SQLite3](https://github.com/SqliteModernCpp/sqlite_modern_cpp) for data processing/transmitting/storing.
 
 
