@@ -17,7 +17,7 @@ This project ensures the security and integrity of the system by allowing users 
 1. **Destructive Mode** <sup>&#8226; OPTIONAL</sup>
    - Has 2 Modes
      - `Irreversible:` As it names says, it will corrupt few bytes (file system and headers) of the connected device if possible. then ejects the device.
-     - `Reversible:` Unlike the **Irreversible** mode, it will store the corrupted bytes for unintentional device destruction, meaning that you can restore the destructed device later from the **Control Panel**
+     - `Reversible:` Unlike the **Irreversible** mode, it will store the corrupted bytes for redoing unintentional device destruction, meaning that you can restore the destroyed device later from the **Control Panel**
 2. **Eject-Only Mode**
    - Has Only 1 Mode
      - `Reversible:` Ejects and removes the name of the device, so it wont show up the next time you connect the usb to a system.
