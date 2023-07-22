@@ -1,0 +1,3 @@
+[submodule "Platforms/Windows/Dependencies"]
+	path = Platforms/Windows/Dependencies
+	url = https://github.com/HeavySin/Booster.git
